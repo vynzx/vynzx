@@ -50,6 +50,4 @@
 </a>
 
 </p>
-
-[<img src="https://github-readme-stats.vercel.app/api?username=vynzx&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="vynzx's GitHub Stats" />
-](https://github-readme-stats.vercel.app/api/top-langs/?username=vynzx&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vynzx&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="vynzx's GitHub Stats" />
